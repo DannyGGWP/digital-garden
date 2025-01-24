@@ -4,6 +4,7 @@ tags:
   - notes
   - learning
   - lecture
+  - anatomy
 creation date: 2025-01-21T11:10:00
 source: https://www.youtube.com/watch?v=2T7cDY7YDsg
 share: true
