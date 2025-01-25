@@ -4,6 +4,7 @@ tags:
   - notes
   - learning
   - lecture
+  - anatomy
 creation date: 2025-01-21T11:10:00
 source: https://www.youtube.com/watch?v=2T7cDY7YDsg
 share: true
@@ -33,7 +34,7 @@ Lecture: https://www.youtube.com/watch?v=2T7cDY7YDsg
 - Egg shape gives sense of movement towards the back of the head. 
 - Their are two main gestures of the head. 
 
-![[../../images/Pasted image 20250121112930.png|Pasted image 20250121112930]]
+![[../../images/Pasted image 20250121112930.png|Pasted image 20250121112930.png]]
 
 🔴 The Primary Gesture which flows into the rest of the drawing. 
 
@@ -51,7 +52,7 @@ Lecture: https://www.youtube.com/watch?v=2T7cDY7YDsg
 - The eye is roughly half way of the whole head. 
 - Half way between eye line and chin is root of nose. 
 - half way between nose and chin is lower part of the lip. 
-![[../../images/Pasted image 20250121134726.png|Pasted image 20250121134726]]
+![[../../images/Pasted image 20250121134726.png|Pasted image 20250121134726.png]]
 ### Neck Construction tips 
 - the digastric plane is what gives depth to the face mask. 
 - when drawing the neck their is a little sag on the neck. 
@@ -68,7 +69,7 @@ Lecture: https://www.youtube.com/watch?v=2T7cDY7YDsg
 - from the side the ear is at roughly the middle. 
 - if the ear is toward the skull were working a 3/4 front view
 - closer to the face means 3/4 back view
-![[../../images/Pasted image 20250121212614.png|Pasted image 20250121212614]]
+![[../../images/Pasted image 20250121212614.png|Pasted image 20250121212614.png]]
 
 >[!tip] 
 >Planes make for good indication of direction 
