@@ -34,7 +34,7 @@ Lecture: https://www.youtube.com/watch?v=2T7cDY7YDsg
 - Egg shape gives sense of movement towards the back of the head. 
 - Their are two main gestures of the head. 
 
-![[../../images/head-gest.png|Head Gesture]] 
+![[../../head-gest.png|Head Gesture]] 
 
 🔴 The Primary Gesture which flows into the rest of the drawing. 
 
@@ -52,7 +52,7 @@ Lecture: https://www.youtube.com/watch?v=2T7cDY7YDsg
 - The eye is roughly half way of the whole head. 
 - Half way between eye line and chin is root of nose. 
 - half way between nose and chin is lower part of the lip. 
-![[../../images/proportions-head.png|proportions of the head]] 
+![[../../proportions-head.png|proportions of the head]] 
 ### Neck Construction tips 
 - the digastric plane is what gives depth to the face mask. 
 - when drawing the neck their is a little sag on the neck. 
@@ -69,7 +69,7 @@ Lecture: https://www.youtube.com/watch?v=2T7cDY7YDsg
 - from the side the ear is at roughly the middle. 
 - if the ear is toward the skull were working a 3/4 front view
 - closer to the face means 3/4 back view
-![[../../images/ear-placement.png|How Ear placement can direct perspective]] 
+![[../../ear-placement.png|How Ear placement can direct perspective]] 
 
 >[!tip] 
 >Planes make for good indication of direction 
